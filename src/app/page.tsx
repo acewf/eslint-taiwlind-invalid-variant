@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <p>
+        <p className="mf:mx-2">
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
